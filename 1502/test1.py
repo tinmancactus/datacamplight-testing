@@ -1,6 +1,6 @@
 __metadata__ = {
-    course: 1502,
-    page: "datacamp-light-exercises",
+    course: "Tim's Sandpit",
+    page: "dcl-1",
     placement: "example"
 }
 
