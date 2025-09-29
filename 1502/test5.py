@@ -5,4 +5,4 @@ __metadata__ = {
 }
 
 
-print("This aint gonna work :(")
+print("This aint gonna work")

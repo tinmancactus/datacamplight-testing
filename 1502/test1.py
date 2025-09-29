@@ -13,3 +13,5 @@ class Book:
 
 
 book = Book()
+
+print("Hello Engineering & IT Group!")
