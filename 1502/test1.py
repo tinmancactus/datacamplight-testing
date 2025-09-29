@@ -1,6 +1,6 @@
 __metadata__ = {
     course: 1502,
-    slug: "datacamp-light-exercises",
+    page: "datacamp-light-exercises",
     placement: "example"
 }
 
