@@ -1,7 +1,7 @@
 __metadata__ = {
     course: "Tim's Sandpit",
     page: "dcl-3",
-    placement: "example"
+    placement: "example2"
 }
 
 # apiClient.py
