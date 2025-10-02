@@ -5,6 +5,7 @@ __metadata__ = {
 }
 
 # Now with correct syntax!
+# Hello World!
 class Book:
     def __init__(self):
         self.title = "Atomic Habits"

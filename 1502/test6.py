@@ -5,6 +5,7 @@ __metadata__ = {
 }
 
 # Now with correct syntax!
+# Hello World!
 print("This exercise will go in two places")
 for i in range(3):
     for j in range(3):
