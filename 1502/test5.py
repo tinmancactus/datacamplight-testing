@@ -1,7 +1,7 @@
 __metadata__ = {
-    course: "Tim's Sandpit",
-    page: "dcl-4",
-    placement: "example"
+    "course": "Tim's Sandpit",
+    "page": "dcl-4",
+    "placement": "example"
 }
 
 
