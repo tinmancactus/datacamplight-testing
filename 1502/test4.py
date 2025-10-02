@@ -4,6 +4,6 @@ __metadata__ = {
     "placement": 'example2'
 }
 
-# apiClient.py
+# Now with correct syntax!
 print("Oh hey hey hey!")
 print("Hello Engineering & IT Group!")

@@ -4,7 +4,7 @@ __metadata__ = {
     "placement": "example"
 }
 
-
+# Now with correct syntax!
 class Book:
     def __init__(self):
         self.title = "Atomic Habits"

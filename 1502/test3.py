@@ -4,6 +4,6 @@ __metadata__ = {
     "placement": "example1"
 }
 
-# main.py
+# Now with correct syntax!
 print("Oh hey!")
 print("Hello Engineering & IT Group!")
